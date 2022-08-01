@@ -8,5 +8,5 @@ So far there are two data providers implemented:
 
 | Provider | URL | Version | API version |
 | -------- | --- | ------- | ----------- |
-| [Bright Sky](https://github.com/php-weather/brightsky) | [https://brightsky.dev](https://brightsky.dev/) | 0.3.0 | 0.3.0 |
-| [Open-Meteo](https://github.com/php-weather/open-meteo) | [https://open-meteo.com](https://open-meteo.com) | 0.1.0 | 0.3.0 |
+| [Bright Sky](https://github.com/php-weather/brightsky) | [https://brightsky.dev](https://brightsky.dev/) | 0.4.0 | 0.3.0 |
+| [Open-Meteo](https://github.com/php-weather/open-meteo) | [https://open-meteo.com](https://open-meteo.com) | 0.2.0 | 0.3.0 |
