@@ -4,7 +4,7 @@ There is still a lot to come, but I wanted to create a unified interface to the 
 
 Logo is from [Erik Flower's Weather Icons](https://erikflowers.github.io/weather-icons/)
 
-So far there are two data providers implemented:
+We have these providers so far:
 
 | Provider | URL | Version | API version |
 | -------- | --- | ------- | ----------- |
