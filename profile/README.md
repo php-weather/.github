@@ -8,7 +8,7 @@ We have these providers so far:
 
 | Provider | URL | Version | API version |
 | -------- | --- | ------- | ----------- |
-| [Bright Sky](https://github.com/php-weather/brightsky) | [https://brightsky.dev](https://brightsky.dev) | 0.4.0 | 0.3.0 |
-| [Open-Meteo](https://github.com/php-weather/open-meteo) | [https://open-meteo.com](https://open-meteo.com) | 0.2.0 | 0.3.0 |
-| [OpenWeatherMap](https://github.com/php-weather/openweathermap) | [https://openweathermap.org](https://openweathermap.org) | 0.1.0 | 0.3.0 |
-| [Tomorrow.io](https://github.com/php-weather/tomorrow) | [https://tomorrow.io](https://tomorrow.io) | 0.1.0 | 0.3.0 |
+| [Bright Sky](https://github.com/php-weather/brightsky) | [https://brightsky.dev](https://brightsky.dev) | 0.4.0 | 0.3.* |
+| [Open-Meteo](https://github.com/php-weather/open-meteo) | [https://open-meteo.com](https://open-meteo.com) | 0.2.0 | 0.3.* |
+| [OpenWeatherMap](https://github.com/php-weather/openweathermap) | [https://openweathermap.org](https://openweathermap.org) | 0.1.0 | 0.3.* |
+| [Tomorrow.io](https://github.com/php-weather/tomorrow) | [https://tomorrow.io](https://tomorrow.io) | 0.1.0 | 0.3.* |
