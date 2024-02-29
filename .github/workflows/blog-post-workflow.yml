@@ -15,5 +15,5 @@ jobs:
         with:
           readme_path: ./profile/README.md
           comment_tag_name: "POST-LIST"
-          feed_list: "https://lostfocus.de/tag/php-weather/feed/"
+          feed_list: "https://lostfocus.de/tag/php-weather/feed/,https://phpc.social/@phpweather.rss,https://github.com/php-weather/common/releases.atom"
           max_post_count: 10
