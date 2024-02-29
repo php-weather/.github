@@ -17,5 +17,5 @@ jobs:
           comment_tag_name: "POST-LIST"
           feed_list: "https://lostfocus.de/tag/php-weather/feed/,https://phpc.social/@phpweather.rss,https://github.com/php-weather/common/releases.atom"
           feed_names: "Notes,Mastodon,Releases php-weather/common"
-          template: "- [$feedName] [$title]($url)"
+          template: "- *$feedName:* [$title]($url)  "
           max_post_count: 10
