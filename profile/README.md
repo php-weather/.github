@@ -18,15 +18,21 @@ We have these providers so far:
 <!-- POST-LIST:START -->
  - *Notes:* [I finally managed to update the PHP Weather libraries to use PSR-17 instead of whatever…](https://lostfocus.de/2024/02/27/232520/) 
 
- - *Releases php-weather/common:* [v0.4.1](https://github.com/php-weather/common/releases/tag/0.4.1) 
+ - *tomorrow:* [v0.2.2](https://github.com/php-weather/tomorrow/releases/tag/0.2.2) 
 
- - *Releases php-weather/common:* [Core](https://github.com/php-weather/common/releases/tag/0.4.0) 
+ - *openweathermap:* [v0.2.1](https://github.com/php-weather/openweathermap/releases/tag/0.2.1) 
 
- - *Releases php-weather/common:* [0.3.1](https://github.com/php-weather/common/releases/tag/0.3.1) 
+ - *open-meteo:* [v0.3.2](https://github.com/php-weather/open-meteo/releases/tag/0.3.2) 
 
- - *Releases php-weather/common:* [0.3.0](https://github.com/php-weather/common/releases/tag/0.3.0) 
+ - *brightsky:* [v0.5.1](https://github.com/php-weather/brightsky/releases/tag/0.5.1) 
 
- - *Releases php-weather/common:* [0.2.0](https://github.com/php-weather/common/releases/tag/0.2.0) 
+ - *http-provider:* [v0.6.0](https://github.com/php-weather/http-provider/releases/tag/0.6.0) 
 
- - *Releases php-weather/common:* [0.1.0](https://github.com/php-weather/common/releases/tag/0.1.0) 
+ - *open-meteo:* [v0.3.1](https://github.com/php-weather/open-meteo/releases/tag/0.3.1) 
+
+ - *brightsky:* [v0.5.0](https://github.com/php-weather/brightsky/releases/tag/0.5.0) 
+
+ - *open-meteo:* [v0.3.0](https://github.com/php-weather/open-meteo/releases/tag/0.3.0) 
+
+ - *openweathermap:* [v0.2.0](https://github.com/php-weather/openweathermap/releases/tag/0.2.0) 
 <!-- POST-LIST:END -->
