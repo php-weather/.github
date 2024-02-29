@@ -16,4 +16,5 @@ We have these providers so far:
 ## Latest Updates:
 
 <!-- POST-LIST:START -->
+- [I finally managed to update the PHP Weather libraries to use PSR-17 instead of whatever…](https://lostfocus.de/2024/02/27/232520/)
 <!-- POST-LIST:END -->
