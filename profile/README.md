@@ -17,4 +17,10 @@ We have these providers so far:
 
 <!-- POST-LIST:START -->
 - [I finally managed to update the PHP Weather libraries to use PSR-17 instead of whatever…](https://lostfocus.de/2024/02/27/232520/)
+- [v0.4.1](https://github.com/php-weather/common/releases/tag/0.4.1)
+- [Core](https://github.com/php-weather/common/releases/tag/0.4.0)
+- [0.3.1](https://github.com/php-weather/common/releases/tag/0.3.1)
+- [0.3.0](https://github.com/php-weather/common/releases/tag/0.3.0)
+- [0.2.0](https://github.com/php-weather/common/releases/tag/0.2.0)
+- [0.1.0](https://github.com/php-weather/common/releases/tag/0.1.0)
 <!-- POST-LIST:END -->
