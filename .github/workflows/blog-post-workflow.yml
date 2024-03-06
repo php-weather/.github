@@ -20,4 +20,4 @@ jobs:
           template: "$newline - *$feedName:* [$title]($url) ($date)"
           max_post_count: 10
           disable_item_validation: "true"
-          item_exec: "if (!post.title) post.title = post.description"
+          item_exec: "if (!item.title) item.title = item.description"
