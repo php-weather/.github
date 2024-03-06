@@ -19,3 +19,5 @@ jobs:
           feed_names: "Notes,Mastodon,common,http-provider,brightsky,open-meteo,openweathermap,tomorrow"
           template: "$newline - *$feedName:* [$title]($url) ($date)"
           max_post_count: 10
+          disable_item_validation: "true"
+          item_exec: "if (!post.title) post.title = post.description"
