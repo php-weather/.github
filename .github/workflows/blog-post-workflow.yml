@@ -15,9 +15,8 @@ jobs:
         with:
           readme_path: ./profile/README.md
           comment_tag_name: "POST-LIST"
-          feed_list: "https://lostfocus.de/tag/php-weather/feed/,https://phpc.social/@phpweather.rss,https://github.com/php-weather/common/releases.atom,https://github.com/php-weather/http-provider/releases.atom,https://github.com/php-weather/brightsky/releases.atom,https://github.com/php-weather/open-meteo/releases.atom,https://github.com/php-weather/openweathermap/releases.atom,https://github.com/php-weather/tomorrow/releases.atom"
+          feed_list: "https://lostfocus.de/tag/php-weather/feed/,https://github.com/php-weather/common/releases.atom,https://github.com/php-weather/http-provider/releases.atom,https://github.com/php-weather/brightsky/releases.atom,https://github.com/php-weather/open-meteo/releases.atom,https://github.com/php-weather/openweathermap/releases.atom,https://github.com/php-weather/tomorrow/releases.atom"
           feed_names: "Notes,Mastodon,common,http-provider,brightsky,open-meteo,openweathermap,tomorrow"
           template: "$newline - *$feedName:* [$title]($url) ($date)"
           max_post_count: 10
           disable_item_validation: "true"
-          item_exec: "if (!item.title) item.title = item.description"
