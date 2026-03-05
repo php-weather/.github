@@ -21,8 +21,8 @@ We have these providers so far:
  - *open-meteo:* [v0.2.1](https://github.com/php-weather/openweathermap/releases/tag/0.2.1) (Tue Feb 27 2024 7:37 PM)
  - *brightsky:* [v0.3.2](https://github.com/php-weather/open-meteo/releases/tag/0.3.2) (Tue Feb 27 2024 7:25 PM)
  - *http-provider:* [v0.5.1](https://github.com/php-weather/brightsky/releases/tag/0.5.1) (Tue Feb 27 2024 7:07 PM)
+ - *common:* [v0.6.0](https://github.com/php-weather/http-provider/releases/tag/0.6.0) (Tue Feb 27 2024 6:46 PM)
  - *brightsky:* [v0.3.1](https://github.com/php-weather/open-meteo/releases/tag/0.3.1) (Sat Sep 23 2023 3:35 PM)
  - *http-provider:* [v0.5.0](https://github.com/php-weather/brightsky/releases/tag/0.5.0) (Sat Dec 17 2022 4:09 PM)
  - *brightsky:* [v0.3.0](https://github.com/php-weather/open-meteo/releases/tag/0.3.0) (Sat Dec 17 2022 3:30 PM)
- - *open-meteo:* [v0.2.0](https://github.com/php-weather/openweathermap/releases/tag/0.2.0) (Sat Dec 17 2022 3:05 PM)
- - *openweathermap:* [v0.2.1](https://github.com/php-weather/tomorrow/releases/tag/0.2.1) (Sat Dec 17 2022 2:51 PM)<!-- POST-LIST:END -->
+ - *open-meteo:* [v0.2.0](https://github.com/php-weather/openweathermap/releases/tag/0.2.0) (Sat Dec 17 2022 3:05 PM)<!-- POST-LIST:END -->
